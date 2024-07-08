@@ -72,4 +72,5 @@ java Main ut 5 urls.txt
 - Java SE (version specified in your project settings)
 
 ## Author
-- David Zaydenberg
+- David Zaydenberg, Davidzay@edu.hac.ac.il
+- Ron Elian, Ronel@edu.hac.ac.il
